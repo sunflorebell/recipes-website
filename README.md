@@ -1,2 +1,2 @@
-# TOP-recipes
-recipes assignment from the odin project
+# recipes website
+basic html website (for now) for recipes i guess
